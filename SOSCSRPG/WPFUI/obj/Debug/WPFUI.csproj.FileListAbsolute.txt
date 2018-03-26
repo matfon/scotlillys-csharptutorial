@@ -1,0 +1,15 @@
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\MainWindow.g.cs
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\App.g.cs
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\MainWindow.baml
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\Matej\Desktop\scotlillys\scotlillys-csharptutorial\SOSCSRPG\WPFUI\obj\Debug\WPFUI.pdb
